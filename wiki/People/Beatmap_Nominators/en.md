@@ -27,8 +27,7 @@ BNs are the people to go to for any modding or advice requests about anything ma
 Becoming a Beatmap Nominator
 -------------
 
-With the change to the team on 22. August 2014, joining the BNG is now a lot easier than it used to be.
-For more details, see the forum post [How to join the BNG](https://osu.ppy.sh/forum/t/471344) on how to join the Beatmap Nominators.
+Joining the Beatmap Nominators can be achieved by undergoing an application process which opens every few months. When the applications open, you can find an announcement thread in the [Pending Beatmaps](https://osu.ppy.sh/forum/6) forums. The requirements and modalities for applying can change every cycle. You will have to be sufficiently active within the last 3 months for a reasonable chance to be considered as Beatmap Nominator.
 
 Team Members
 ------------
